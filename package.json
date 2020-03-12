@@ -150,7 +150,7 @@
     "lodash.isequal": "^4.5.0",
     "lookup-closest-locale": "6.0.4",
     "metaviewport-parser": "0.2.0",
-    "mkdirp": "0.5.1",
+    "mkdirp": "1.0.0",
     "opn": "4.0.2",
     "parse-cache-control": "1.0.1",
     "raven": "^2.2.1",
