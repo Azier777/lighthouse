@@ -144,7 +144,7 @@
     "intl-messageformat": "^2.2.0",
     "intl-messageformat-parser": "^1.4.0",
     "jest-mock": "^24.3.0",
-    "jpeg-js": "0.1.2",
+    "jpeg-js": "0.4.0",
     "js-library-detector": "^5.1.0",
     "lighthouse-logger": "^1.2.0",
     "lodash.isequal": "^4.5.0",
