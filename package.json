@@ -160,7 +160,7 @@
     "speedline-core": "1.4.2",
     "update-notifier": "^2.5.0",
     "ws": "3.3.2",
-    "yargs": "3.32.0",
+    "yargs": "16.0.0",
     "yargs-parser": "7.0.0"
   },
   "resolutions": {
