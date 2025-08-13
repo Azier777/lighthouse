@@ -140,7 +140,7 @@
     "details-element-polyfill": "2.2.0",
     "esprima": "^4.0.1",
     "http-link-header": "^0.8.0",
-    "inquirer": "^3.3.0",
+    "inquirer": "^8.2.7",
     "intl-messageformat": "^2.2.0",
     "intl-messageformat-parser": "^1.4.0",
     "jest-mock": "^24.3.0",
